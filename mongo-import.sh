@@ -1,3 +1,4 @@
+#!/bin/sh
 for f in *.csv
 do
     filename=$(basename "$f")
